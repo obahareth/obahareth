@@ -7,7 +7,6 @@
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
 - 😄 Pronouns: Him/He
 - ⚡ Fun fact: Most people have never seen me without a fedora and goatee
-- ❤️ My wife ([Ehsan](https://github.com/ehsanz)) is also an engineer and engineering manager and is a constant source of inspiration for me
 
 # ✍️ Articles and Writings
 [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")
