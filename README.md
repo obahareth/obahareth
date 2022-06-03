@@ -1,11 +1,10 @@
 # 👋 Hello there!
 <!-- General Kenobi! -->
 
-- 🔭 I’m currently working as Head of Engineering on a lot of fun stuff at [Mrsool](https://github.com/mrsool) (pronounced Mar-sool)
+- 🔭 I’m currently working as Chief Technology Officer on a lot of fun stuff at [Ejaro](https://github.com/ejaro)
 - 🌱 I’m currently learning a lot of stuff related to managing lots of engineering teams, and scaling organizations and Redis/MySQL
-- 🤔 I’m looking for help maintaining [notion-rtl](https://github.com/obahareth/notion-rtl) and [are-you-es5](https://github.com/obahareth/are-you-es5)
+- 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
-- 😄 Pronouns: Him/He
 - ⚡ Fun fact: Most people have never seen me without a fedora and goatee
 
 # ✍️ Articles and Writings
