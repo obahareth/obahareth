@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning a lot of stuff related to managing lots of engineering teams, and scaling organizations and Redis/MySQL
 - 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
-- ⚡ Fun fact: Most people have never seen me without a fedora and goatee
+- ⚡ Fun fact: Most people have never seen me without a hat and goatee
 
 # ✍️ Articles and Writings
 [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")
