@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning a lot of stuff related to managing lots of engineering teams, and scaling organizations and Redis/MySQL
 - 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
+- 👀 Check out [my setup](https://github.com/obahareth/my-mac-os)!
 - ⚡ Fun fact: Most people have never seen me without a hat and goatee
 
 # ✍️ Articles and Writings
