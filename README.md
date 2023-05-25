@@ -2,7 +2,7 @@
 <!-- General Kenobi! -->
 
 - 🔭 I’m currently working as Chief Technology Officer on a lot of fun stuff at [Ejaro](https://github.com/ejaro)
-- 🌱 I’m currently learning a lot of stuff related to managing lots of engineering teams, and scaling organizations and Redis/MySQL
+- 🌱 I’m currently learning a lot of stuff related to AI, prompt engineering, and changing my workflow to be AI-driven
 - 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
 - 👀 Check out [my setup](https://github.com/obahareth/my-mac-os)!
