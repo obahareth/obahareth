@@ -12,6 +12,10 @@
 - [notionl-rtl](https://github.com/obahareth/notion-rtl) - Adding RTL support to Notion. Now lives on as part of [Notion Enhancer](https://github.com/notion-enhancer)
 - [mrsool/zatca](https://github.com/mrsool/zatca) - A full-fledged library for generating and submitting Saudi e-invoices
 
+## Games I am Currently Playing
+- The Legend of Zelda: Tears of the Kingdom
+- Dead Island 2
+
 # ✍️ Articles and Writings
 [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")
 [![Gitbook Badge](https://img.shields.io/badge/wiki.omar.engineer-obahareth?style=flat&logo=gitbook&color=3884FF&logoColor=white)](https://wiki.omar.engineer "Visit my Wiki")
