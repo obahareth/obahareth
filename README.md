@@ -14,7 +14,9 @@
 
 ## Games I am Currently Playing
 - The Legend of Zelda: Tears of the Kingdom
-- Dead Island 2
+- Baldur's Gate 3
+- Remnant II
+- Guild Wars 2
 
 # ✍️ Articles and Writings
 [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")
