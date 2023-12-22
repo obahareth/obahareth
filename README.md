@@ -1,6 +1,9 @@
 # 👋 Hello there!
 <!-- General Kenobi! -->
 
+![](https://raw.githubusercontent.com/obahareth/obahareth/output/github-contribution-grid-snake.svg)  
+_Generated via [platane/snk](https://github.com/Platane/snk)_
+
 - 🔭 I’m currently working as Chief Technology Officer on a lot of fun stuff at [Ejaro](https://github.com/ejaro)
 - 🌱 I’m currently learning a lot of stuff related to AI, prompt engineering, and changing my workflow to be AI-driven
 - 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
