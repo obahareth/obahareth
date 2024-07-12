@@ -13,13 +13,12 @@ _Generated via [platane/snk](https://github.com/Platane/snk)_
 
 ## Notable Projects I've Built
 - [notionl-rtl](https://github.com/obahareth/notion-rtl) - Adding RTL support to Notion. Now lives on as part of [Notion Enhancer](https://github.com/notion-enhancer)
-- [mrsool/zatca](https://github.com/mrsool/zatca) - A full-fledged library for generating and submitting Saudi e-invoices
+- [zatca](https://github.com/obahareth/zatca) - A full-fledged library for generating and submitting Saudi e-invoices
 
 ## Games I am Currently Playing
-- The Legend of Zelda: Tears of the Kingdom
-- Baldur's Gate 3
-- Remnant II
-- Guild Wars 2
+- Elden Ring: Shadow of the Erdtree
+- Final Fantasy XIV: Dawntrail
+- Dark Age of Camelot
 
 # ✍️ Articles and Writings
 [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")
