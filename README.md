@@ -16,6 +16,10 @@ _Generated via [platane/snk](https://github.com/Platane/snk)_
 - [notionl-rtl](https://github.com/obahareth/notion-rtl) - Adding RTL support to Notion. Now lives on as part of [Notion Enhancer](https://github.com/notion-enhancer)
 - [zatca](https://github.com/obahareth/zatca) - A full-fledged library for generating and submitting Saudi e-invoices
 
+## Interesting Links
+I share links of interesting articles I come across related to any of my interests here:  
+[https://t.me/obahareth_links](https://t.me/obahareth_links)
+
 ## Games I am Currently Playing
 - Elden Ring: Shadow of the Erdtree
 - Elder Scrolls Online
