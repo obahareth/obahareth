@@ -4,8 +4,7 @@
 ![](https://raw.githubusercontent.com/obahareth/obahareth/output/github-contribution-grid-snake.svg)  
 _Generated via [platane/snk](https://github.com/Platane/snk)_
 
-- 🔭 I’m currently working as Chief Technology Officer to kickstart the peer-to-peer Carsharing industry in [Ejaro](https://github.com/ejaro)
-- 🚲 I'm a Cofounder at [The Amazing Team](https://github.com/theamazingteam) building products to revolutionize real estate and employment
+- 🚲 I'm a Cofounder and Chief Technology Officer at [The Amazing Team](https://github.com/theamazingteam) building products to revolutionize real estate and employment
 - 🌱 I’m currently learning a lot of stuff related to AI, prompt engineering, and changing my workflow to be AI-driven
 - 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
@@ -22,10 +21,9 @@ I share links of interesting articles I come across related to any of my interes
 
 ## Games I am Currently Playing
 - Elden Ring: Shadow of the Erdtree
-- Elder Scrolls Online
+- Elden Ring: Nightreign
 - Dark Age of Camelot
-- Baldur's Gate 3
-- For Honor
+- Clair Obscur: Expidition 33
 
 # ✍️ Articles and Writings
 [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")
