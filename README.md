@@ -22,8 +22,8 @@ I share links of interesting articles I come across related to any of my interes
 ## Games I am Currently Playing
 - Elden Ring: Shadow of the Erdtree
 - Elden Ring: Nightreign
-- Dark Age of Camelot
-- Hollow Knight: Silksong
+- World of Warcraft
+- Guild Wars 2
 
 # ✍️ Articles and Writings
 Blog: [![Ghost Badge](https://img.shields.io/badge/omar.engineer-obahareth?style=flat&logo=ghost&color=738A94&logoColor=white)](https://omar.engineer "Read Articles on my Website")  
