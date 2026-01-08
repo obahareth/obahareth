@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/obahareth/obahareth/output/github-contribution-grid-snake.svg)  
 _Generated via [platane/snk](https://github.com/Platane/snk)_
 
-- 🚲 I'm a Cofounder and Chief Technology Officer at [The Amazing Team](https://github.com/theamazingteam) building products to revolutionize real estate and employment
+- 🚲 I'm a Cofounder and Chief Technology Officer at [The Amazing Team](https://github.com/theamazingteam) building [Bousla](https://bousla.com) and Jaber (coming soon)
 - 🌱 I’m currently learning a lot of stuff related to AI, prompt engineering, and changing my workflow to be AI-driven
 - 🤔 I’m looking for help maintaining [are-you-es5](https://github.com/obahareth/are-you-es5)
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
