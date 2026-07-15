@@ -10,6 +10,7 @@ _Generated via [platane/snk](https://github.com/Platane/snk)_
 - 💬 [Ask me anything!](https://github.com/obahareth/ama)
 - 👀 Check out [my setup](https://github.com/obahareth/my-mac-os)!
 - ⚡ Fun fact: Most people have never seen me without a hat and goatee
+- For the AI Era: [My public skills repo](https://github.com/obahareth/skills-public).
 
 ## Notable Projects I've Built
 - [notionl-rtl](https://github.com/obahareth/notion-rtl) - Adding RTL support to Notion. Now lives on as part of [Notion Enhancer](https://github.com/notion-enhancer)
